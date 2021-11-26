@@ -1,4 +1,5 @@
 
+<img alt="github counter" height="20px" src="https://komarev.com/ghpvc/?username=opepelab&color=yellow" />
 <p>
   <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=opepelab&theme=radical&show_icons=true" /><br/>
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opepelab&layout=compact&theme=radical" />
