@@ -1,7 +1,9 @@
 <h1>🧐Hello?</h1>
 <h2>Profile</h2>
 
-  📺I'm learning SWR axios Contentful
+  📺I'm learning SWR GraphQL axios Contentful<br>
+  ✍️ I enjoy art and love to design and create .
+
   
 <img alt="github counter" height="20px" src="https://komarev.com/ghpvc/?username=opepelab&color=yellow" />
 <p>
