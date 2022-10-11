@@ -1,8 +1,10 @@
 <h1>🧐Hello?</h1>
 <h2>Profile</h2>
 
-  📺I'm learning SWR GraphQL axios Contentful<br>
-  ✍️ I enjoy art and love to design and create .
+  👀 thankyou watching  
+  📺I'm learning SWR and GraphQL mutation    
+  ---and popular backend framework of learn.  
+  ✍️ I enjoy art and love to design and create .  
 
   
 <img alt="github counter" height="20px" src="https://komarev.com/ghpvc/?username=opepelab&color=yellow" />
@@ -15,10 +17,6 @@
 
 
 <p align="left"> 
-  
-   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a> 
   
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
