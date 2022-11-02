@@ -48,3 +48,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
+
+<p><figure><embed src="https://wakatime.com/share/@1fcfb457-a9f5-45d8-b275-c57b093a166f/aabfab08-d411-4765-9f25-e865b205b130.svg"></embed></figure></p>
+
