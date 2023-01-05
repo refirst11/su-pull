@@ -3,8 +3,8 @@
 
   thanks for watching him.
 
-  📺I'm learning SWR and GraphQL mutation    
-  ---and popular backend framework of learn.  
+  learning SWR and design
+  break　popular backend framework .. 
   ✍️ I enjoy art and love to design and create .  
 
 <p>
@@ -15,7 +15,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=su-pull&theme=dracula" />
   <img height="750px" src="https://wakatime.com/share/@1fcfb457-a9f5-45d8-b275-c57b093a166f/aabfab08-d411-4765-9f25-e865b205b130.svg"/>
   <img height="750px" src="https://wakatime.com/share/@1fcfb457-a9f5-45d8-b275-c57b093a166f/81271da3-1417-415f-8975-2ac703f21605.svg" />
-
 <p align="left"> 
   
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
