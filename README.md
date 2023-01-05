@@ -1,7 +1,8 @@
 <h1>🧐Hello?</h1>
 <h2>Profile</h2>
 
-  👀 thankyou watching  
+  thanks for watching him.
+
   📺I'm learning SWR and GraphQL mutation    
   ---and popular backend framework of learn.  
   ✍️ I enjoy art and love to design and create .  
