@@ -3,8 +3,8 @@
 
   thanks for watching him.
 
-  learning SWR and design
-  break　popular backend framework .. 
+  learning SWR and design  
+  popular backend framework .. 
   ✍️ I enjoy art and love to design and create .  
 
 <p>
