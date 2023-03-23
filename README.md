@@ -2,7 +2,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
-<h2>Profile</h2>
+<h2>Bio</h2>
 
   thanks for watching him.
 
