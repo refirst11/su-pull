@@ -1,8 +1,7 @@
 <h1>hello</h1>
   thanks for watching him.
 
-  learning Astro Remix Next.js Nest.js and design.
-  ✍️ I enjoy art and love to design and create.  
+  learning Astro Remix Next.js Nest.js and design, ✍️ I enjoy art and love to design and create.  
 <div>
   <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=su-pull&theme=radical&show_icons=true" /><br/>
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=su-pull&layout=compact&theme=radical" />
