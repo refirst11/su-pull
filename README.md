@@ -1,5 +1,5 @@
 thanks for watching him.  
-learning Next.js SWR Nest.js and design ✍️ I enjoy art and love to design and create.  
+I enjoy design and learning Next.js Nest.js ✍️   
 <div>
   <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=su-pull&theme=radical&show_icons=true" />
 </div>
