@@ -1,5 +1,5 @@
 thanks for watching him.  
-I enjoy design and learning Next.js Nest.js ✍️   
+Next.js Nuxt.js Nest.js ✍️   
 <div>
   <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=su-pull&theme=radical&show_icons=true" />
 </div>
