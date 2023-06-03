@@ -1,5 +1,7 @@
-thanks for watching him.  
-Next.js Nuxt.js Nest.js ✍️   
+Thanks for watching him!  
+I'm secretly trying to do something with ReactNative.  
+Next.js Nuxt.js Nest.js Other... ✍️
+
 <div>
   <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=su-pull&theme=radical&show_icons=true" />
 </div>
