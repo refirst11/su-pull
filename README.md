@@ -1,4 +1,4 @@
-Thanks for watching him!  
+Thanks for watching him !  
 I'm secretly trying to do something with ReactNative.  
 
 <div>
