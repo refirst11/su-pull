@@ -1,1 +1,1 @@
-It if you could contribute or donate to me.
+It would be helpful if you could donate to the cost of the coffee
