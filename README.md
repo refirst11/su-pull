@@ -1,4 +1,4 @@
-Program Developer for money and have fun.
+I would appreciate it if you could donate coffee money for me to commit to open source.
 
 <div>
   <img height="250px" src="https://wakatime.com/share/@1fcfb457-a9f5-45d8-b275-c57b093a166f/aabfab08-d411-4765-9f25-e865b205b130.svg"/>
