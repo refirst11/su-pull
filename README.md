@@ -1,6 +1,2 @@
-I would appreciate it if you could donate coffee money for me to commit to open source.
-
-<div>
-  <img height="250px" src="https://wakatime.com/share/@1fcfb457-a9f5-45d8-b275-c57b093a166f/aabfab08-d411-4765-9f25-e865b205b130.svg"/>
-  <img height="250px" src="https://wakatime.com/share/@1fcfb457-a9f5-45d8-b275-c57b093a166f/81271da3-1417-415f-8975-2ac703f21605.svg" />
-</div>
+I would appreciate it if you could donate coffee money for me to commit to open source.  
+I'm in Tokyo now and I'm devoting all my time to returning to the countryside.
